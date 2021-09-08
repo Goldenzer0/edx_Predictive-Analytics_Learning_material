@@ -7,4 +7,5 @@ Course List:
 3. Successfully evaluating predictive modelling
 4. Predictive analytics using machine learning
 
+Here's the classnote link: https://1drv.ms/u/s!AoMjPLIRdn2lkHnQCbDlOrZY5yYD
 Enjoy and have fun! Happy Pythoning!!
